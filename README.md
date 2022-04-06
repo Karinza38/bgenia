@@ -1,25 +1,3 @@
-<!--
-### Hi there 👋
-
-
-**bgenia/bgenia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<div align="center">
-  <div style="display: flex; align-items: flex-start;">
-    <img src="https://i.imgur.com/Vzub53c.png" />
-    <!--
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bgenia&layout=compact&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
-    -->
-  </div>
+<div class="content" style="display: flex; flex-flow: column nowrap;">
+  <img src="https://i.imgur.com/Vzub53c.png"/>
 </div>
